@@ -1,0 +1,12 @@
+[submodule "deps/vcml-cci"]
+	path = deps/vcml-cci
+	url = https://github.com/machineware-gmbh/vcml-cci.git
+[submodule "deps/vcml"]
+	path = deps/vcml
+	url = https://github.com/machineware-gmbh/vcml.git
+[submodule "deps/systemc"]
+	path = deps/systemc
+	url = https://github.com/accellera-official/systemc.git
+[submodule "deps/cci"]
+	path = deps/cci
+	url = https://github.com/accellera-official/cci.git
